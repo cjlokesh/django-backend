@@ -1,0 +1,1 @@
+The Django admin site is built dynamically by reading your model metadata
